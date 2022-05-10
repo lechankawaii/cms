@@ -10,7 +10,7 @@ import java.util.List;
 
 public class CorsConfig implements WebMvcConfigurer {
 
-    ////1231231
+    ////1231231765464646
     @Override
     public void addCorsMappings(CorsRegistry registry){
         registry.addMapping("/**")
